@@ -1,10 +1,10 @@
-# mbit
+# mbit12
 
 Extension for Yahboom mbit
 
 ## License
 
-MIT
+MIT12
 
 ## Supported targets
 
